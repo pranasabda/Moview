@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Moview</string>
+    <string name="title_activity_main">Moview</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <!--About Us-->
+    <string name="about_us">"Moview
+
+Is just a simple app for MOvie reVIEWs
+this app uses the API from https://www.themoviedb.org/
+Moview is still in development stage"</string>
+</resources>
